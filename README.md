@@ -12,6 +12,5 @@ Gemini API를  공부한 내용을 기록하는 저장소입니다.
 ------------
 <br>
 
-<a href="https://wikidocs.net/book/14285">
-  <h4>위키독스: 자세히 쓰는 Gemini API</h4>
-</a>
+[위키독스: 자세히 쓰는 Gemini API](https://wikidocs.net/book/14285)
+
